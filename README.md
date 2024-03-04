@@ -4,8 +4,7 @@ This GitHub contains the required material needed to run the OpenBCI GUI on your
 
 Steps to get Started:
 1. Download Processing - This is the software that will conmpile all OpenBCI code and dipsay on our device. LINK: https://processing.org/download
-2. After Downloading Processing, you'll need to locate where it was download and create a new file called "library"
-![Screenshot 2024-03-03 131403](https://github.com/GavinCaptcha/EEGUAVFPV/assets/99159361/f16b0048-653c-4964-a325-51cbde30a8fd)
+2. open Preccesing, you won't need to do anything now. But we'll need it shortly.
 3. After that, download the OpenBCI code from their website. LINK:  https://github.com/OpenBCI/OpenBCI_GUI/tree/master?tab=readme-ov-file#installing
    you can do this by clicking the download.zip option on their GitHub ![Screenshot 2024-03-03 131743](https://github.com/GavinCaptcha/EEGUAVFPV/assets/99159361/2fe244ac-e5f5-444f-8708-dbf202e910d3)
 4. Open Processing and select file > open > Where you downloaded OpenBCI\OpenBCI_GUI-master\OpenBCI_GUI.pde
